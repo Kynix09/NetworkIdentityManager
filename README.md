@@ -13,12 +13,12 @@ A real Windows network configuration utility. This project replaces the simulate
 
 ## Preview
 
-![Network Identity Manager dashboard](docs/images/dashboard.png)
+![Network Identity Manager dashboard](dashboard.png)
 
 <details>
 <summary><strong>Open the configuration panel</strong></summary>
 
-![Network configuration panel](docs/images/configuration.png)
+![Network configuration panel](configuration.png)
 
 </details>
 
